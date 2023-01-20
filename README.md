@@ -17,7 +17,7 @@ Taskmaster Pro is a task management application with visual reminders for when a
 * Web page is media query responsive.
 
 ## Web Page
-![Taskmaster Pro](./assets/images/screenshot.png)
+![Taskmaster Pro](./screenshot.png)
 
 [Deployed Web Page](https://Kamadulski999.github.io/taskmaster-pro)
 
